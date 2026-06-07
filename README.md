@@ -1,9 +1,3 @@
-Aqui está uma estrutura completa e formatada de **README.md** para o seu repositório no GitHub, baseada nos objetivos de estudo e tecnologias presentes nas fontes fornecidas. 
-
-Basta copiar o conteúdo abaixo e colar no seu arquivo `README.md`:
-
----
-
 # 🚀 Jornada Back-end Developer: Do Zero à Prática com Node.js
 
 Bem-vindo ao meu repositório de estudos focado em desenvolvimento back-end! Este espaço documenta minha evolução técnica através do **Bootcamp Sem Parar Corpay - Back-end do Zero a Prática**, onde o objetivo central é dominar o ecossistema **Node.js** para criar soluções escaláveis, seguras e prontas para o mercado.
@@ -50,6 +44,3 @@ Este repositório segue os pilares fundamentais do versionamento com Git:
 *   **Estrutura de pastas clara:** Organização em `src`, `models`, `services` e `infra`.
 *   **Commits Semânticos:** Uso de padrões para facilitar o rastreamento de mudanças.
 *   **Documentação (JSDoc):** Código documentado para facilitar a manutenção e o entendimento por outros desenvolvedores.
-
----
-*Este material foi organizado com o apoio do **NotebookLM** como ferramenta de aprendizagem ativa e curadoria de conhecimento.*
